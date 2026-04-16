@@ -83,8 +83,8 @@ Tracks and analyzes system failures (QA-focused)
 
 ### 📈 Currently Learning
 - CompTIA Security+  
-- Network+  
-- AWS Cloud Practitioner  
+- AWS Cloud Practitioner
+- ISTQB Foundation Level  
 
 ---
 
