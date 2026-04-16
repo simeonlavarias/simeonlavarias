@@ -33,9 +33,6 @@
 <a href="https://www.instagram.com/shimiyoon/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://www.facebook.com/simeoncarlos.lavarias/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-</a>
 <a href="https://simeon-portfolio-website.netlify.app/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
 </a>
@@ -91,10 +88,11 @@ Tracks and analyzes system failures (QA-focused)
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simeonlavarias&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simeonlavarias&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeonlavarias&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeonlavarias&layout=compact&theme=tokyonight" />
 </p>
 
 ---
