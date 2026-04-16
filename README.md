@@ -73,9 +73,9 @@ Event-driven system using sensors + Flask backend
 🔹 **AI Failure Analysis Dashboard**  
 Tracks and analyzes system failures (QA-focused)  
 
-🔹 **Portfolio Website**
-🔗 https://simeon-portfolio-website.netlify.app/
-👉 https://github.com/simeonlavarias/PortfolioWebsite
+🔹 **Portfolio Website**  
+🔗 https://simeon-portfolio-website.netlify.app/  
+👉 https://github.com/simeonlavarias/PortfolioWebsite  
 
 ---
 
