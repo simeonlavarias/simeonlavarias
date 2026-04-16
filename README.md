@@ -1,4 +1,4 @@
-<h1 align="center">👋 Simeon Lavarias</h1>
+<h1 align="center">👋 Simeon Carlos Lavarias</h1>
 <h3 align="center">Software Engineer • Test Automation • Embedded Systems</h3>
 
 <p align="center">
