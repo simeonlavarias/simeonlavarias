@@ -1,5 +1,5 @@
 <h1 align="center">👋 Simeon Lavarias</h1>
-<h3 align="center">Software Engineer • Test Automation • Cloud & Security</h3>
+<h3 align="center">Software Engineer • Test Automation • Embedded Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Test+Automation+Engineer;Cloud+%26+Security;Backend+Developer&center=true&width=500&height=45">
