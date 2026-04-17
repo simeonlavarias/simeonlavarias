@@ -27,9 +27,6 @@
 <a href="https://www.linkedin.com/in/simeonlavarias-2a11a0232/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://github.com/simeonlavarias" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
 <a href="https://www.instagram.com/shimiyoon/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
